@@ -1,0 +1,11 @@
+{
+  "name": "duequeue",
+  "version": "1.1.0",
+  "description": "Create queues of jobs that need to be executed at specific time in future. Duequeue only uses one single timer per task queue.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "h43z",
+  "license": "ISC"
+}
